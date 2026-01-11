@@ -1,2 +1,2 @@
 # discordclockinbot
-the bot is for the factions in a  game called naramo nuclear power plant, it has a clockin function.
+the bot is for the factions in a  game called naramo nuclear power plant, it has a clockin function, where you need to be in a vc for it to let you clock in, it dms you iof you left the vc, and clocks you out, this can be also implemented in work situations or games, it also has the number 67 banned because, who isnt tired of heaaring that number. The clockin at the end also calculates the time that the ppl were clocked in, when left and the precentage that thjey stayed in the shift/etc , so we can log who stayed more, how many time etc. (made in python)
